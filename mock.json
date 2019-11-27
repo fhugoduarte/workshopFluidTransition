@@ -1,0 +1,920 @@
+[
+  {
+    "author": "CorentinJ",
+    "name": "Real-Time-Voice-Cloning",
+    "avatar": "https://github.com/CorentinJ.png",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 12826,
+    "forks": 2145,
+    "currentPeriodStars": 3980,
+    "builtBy": [
+      {
+        "username": "CorentinJ",
+        "href": "https://github.com/CorentinJ",
+        "avatar": "https://avatars2.githubusercontent.com/u/12038136"
+      },
+      {
+        "username": "alexpeattie",
+        "href": "https://github.com/alexpeattie",
+        "avatar": "https://avatars3.githubusercontent.com/u/636814"
+      },
+      {
+        "username": "vanpelt",
+        "href": "https://github.com/vanpelt",
+        "avatar": "https://avatars2.githubusercontent.com/u/17"
+      },
+      {
+        "username": "lidalei",
+        "href": "https://github.com/lidalei",
+        "avatar": "https://avatars2.githubusercontent.com/u/7344016"
+      },
+      {
+        "username": "mathigatti",
+        "href": "https://github.com/mathigatti",
+        "avatar": "https://avatars1.githubusercontent.com/u/4528852"
+      }
+    ]
+  },
+  {
+    "author": "openai",
+    "name": "gpt-2",
+    "avatar": "https://github.com/openai.png",
+    "url": "https://github.com/openai/gpt-2",
+    "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 10007,
+    "forks": 2329,
+    "currentPeriodStars": 1633,
+    "builtBy": [
+      {
+        "username": "WuTheFWasThat",
+        "href": "https://github.com/WuTheFWasThat",
+        "avatar": "https://avatars0.githubusercontent.com/u/1479648"
+      },
+      {
+        "username": "christopherhesse",
+        "href": "https://github.com/christopherhesse",
+        "avatar": "https://avatars1.githubusercontent.com/u/440336"
+      },
+      {
+        "username": "jackclarksf",
+        "href": "https://github.com/jackclarksf",
+        "avatar": "https://avatars2.githubusercontent.com/u/6484755"
+      },
+      {
+        "username": "imgntn",
+        "href": "https://github.com/imgntn",
+        "avatar": "https://avatars3.githubusercontent.com/u/843228"
+      },
+      {
+        "username": "natemurthy",
+        "href": "https://github.com/natemurthy",
+        "avatar": "https://avatars1.githubusercontent.com/u/1788878"
+      }
+    ]
+  },
+  {
+    "author": "microsoft",
+    "name": "vscode",
+    "avatar": "https://github.com/microsoft.png",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "languageColor": "#2b7489",
+    "stars": 87412,
+    "forks": 13045,
+    "currentPeriodStars": 2539,
+    "builtBy": [
+      {
+        "username": "bpasero",
+        "href": "https://github.com/bpasero",
+        "avatar": "https://avatars1.githubusercontent.com/u/900690"
+      },
+      {
+        "username": "joaomoreno",
+        "href": "https://github.com/joaomoreno",
+        "avatar": "https://avatars1.githubusercontent.com/u/22350"
+      },
+      {
+        "username": "jrieken",
+        "href": "https://github.com/jrieken",
+        "avatar": "https://avatars2.githubusercontent.com/u/1794099"
+      },
+      {
+        "username": "mjbvz",
+        "href": "https://github.com/mjbvz",
+        "avatar": "https://avatars2.githubusercontent.com/u/12821956"
+      },
+      {
+        "username": "isidorn",
+        "href": "https://github.com/isidorn",
+        "avatar": "https://avatars1.githubusercontent.com/u/1926584"
+      }
+    ]
+  },
+  {
+    "author": "google-research",
+    "name": "google-research",
+    "avatar": "https://github.com/google-research.png",
+    "url": "https://github.com/google-research/google-research",
+    "description": "Google AI Research",
+    "language": "Jupyter Notebook",
+    "languageColor": "#DA5B0B",
+    "stars": 5987,
+    "forks": 952,
+    "currentPeriodStars": 1830,
+    "builtBy": [
+      {
+        "username": "pdpino",
+        "href": "https://github.com/pdpino",
+        "avatar": "https://avatars1.githubusercontent.com/u/20805451"
+      },
+      {
+        "username": "dustinvtran",
+        "href": "https://github.com/dustinvtran",
+        "avatar": "https://avatars2.githubusercontent.com/u/2569867"
+      },
+      {
+        "username": "andrewluchen",
+        "href": "https://github.com/andrewluchen",
+        "avatar": "https://avatars1.githubusercontent.com/u/6128079"
+      },
+      {
+        "username": "gamaleldin",
+        "href": "https://github.com/gamaleldin",
+        "avatar": "https://avatars0.githubusercontent.com/u/8570605"
+      },
+      {
+        "username": "peterjliu",
+        "href": "https://github.com/peterjliu",
+        "avatar": "https://avatars2.githubusercontent.com/u/5204812"
+      }
+    ]
+  },
+  {
+    "author": "hoanhan101",
+    "name": "ultimate-go",
+    "avatar": "https://github.com/hoanhan101.png",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "description": "Ultimate Go study guide, with heavily documented code and programs analysis all in 1 place →",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 6536,
+    "forks": 411,
+    "currentPeriodStars": 2144,
+    "builtBy": [
+      {
+        "username": "hoanhan101",
+        "href": "https://github.com/hoanhan101",
+        "avatar": "https://avatars1.githubusercontent.com/u/12986752"
+      },
+      {
+        "username": "Thammachart",
+        "href": "https://github.com/Thammachart",
+        "avatar": "https://avatars0.githubusercontent.com/u/1731496"
+      },
+      {
+        "username": "mimol91",
+        "href": "https://github.com/mimol91",
+        "avatar": "https://avatars1.githubusercontent.com/u/2659069"
+      },
+      {
+        "username": "thomas-tacquet",
+        "href": "https://github.com/thomas-tacquet",
+        "avatar": "https://avatars2.githubusercontent.com/u/17130288"
+      },
+      {
+        "username": "danrl",
+        "href": "https://github.com/danrl",
+        "avatar": "https://avatars0.githubusercontent.com/u/859656"
+      }
+    ]
+  },
+  {
+    "author": "TheAlgorithms",
+    "name": "Java",
+    "avatar": "https://github.com/TheAlgorithms.png",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "stars": 19932,
+    "forks": 7370,
+    "currentPeriodStars": 1766,
+    "builtBy": [
+      {
+        "username": "yanglbme",
+        "href": "https://github.com/yanglbme",
+        "avatar": "https://avatars3.githubusercontent.com/u/21008209"
+      },
+      {
+        "username": "dynamitechetan",
+        "href": "https://github.com/dynamitechetan",
+        "avatar": "https://avatars1.githubusercontent.com/u/14369357"
+      },
+      {
+        "username": "varunu28",
+        "href": "https://github.com/varunu28",
+        "avatar": "https://avatars1.githubusercontent.com/u/7676016"
+      },
+      {
+        "username": "christianbender",
+        "href": "https://github.com/christianbender",
+        "avatar": "https://avatars0.githubusercontent.com/u/23243382"
+      },
+      {
+        "username": "AnupKumarPanwar",
+        "href": "https://github.com/AnupKumarPanwar",
+        "avatar": "https://avatars2.githubusercontent.com/u/10573038"
+      }
+    ]
+  },
+  {
+    "author": "polynote",
+    "name": "polynote",
+    "avatar": "https://github.com/polynote.png",
+    "url": "https://github.com/polynote/polynote",
+    "description": "A better notebook for Scala (and more)",
+    "language": "Scala",
+    "languageColor": "#c22d40",
+    "stars": 3228,
+    "forks": 249,
+    "currentPeriodStars": 1878,
+    "builtBy": [
+      {
+        "username": "jeremyrsmith",
+        "href": "https://github.com/jeremyrsmith",
+        "avatar": "https://avatars3.githubusercontent.com/u/864869"
+      },
+      {
+        "username": "jonathanindig",
+        "href": "https://github.com/jonathanindig",
+        "avatar": "https://avatars0.githubusercontent.com/u/5430417"
+      },
+      {
+        "username": "indig",
+        "href": "https://github.com/indig",
+        "avatar": "https://avatars0.githubusercontent.com/u/54975892"
+      },
+      {
+        "username": "mathematicalmichael",
+        "href": "https://github.com/mathematicalmichael",
+        "avatar": "https://avatars3.githubusercontent.com/u/40366263"
+      },
+      {
+        "username": "JD557",
+        "href": "https://github.com/JD557",
+        "avatar": "https://avatars3.githubusercontent.com/u/1187242"
+      }
+    ]
+  },
+  {
+    "author": "gzc426",
+    "name": "Java-Interview",
+    "avatar": "https://github.com/gzc426.png",
+    "url": "https://github.com/gzc426/Java-Interview",
+    "description": "Java 面试必会 直通BAT",
+    "stars": 2278,
+    "forks": 474,
+    "currentPeriodStars": 1050,
+    "builtBy": [
+      {
+        "username": "gzc426",
+        "href": "https://github.com/gzc426",
+        "avatar": "https://avatars1.githubusercontent.com/u/15061667"
+      }
+    ]
+  },
+  {
+    "author": "zhisheng17",
+    "name": "flink-learning",
+    "avatar": "https://github.com/zhisheng17.png",
+    "url": "https://github.com/zhisheng17/flink-learning",
+    "description": "flink learning blog. http://www.54tianzhisheng.cn 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "stars": 3195,
+    "forks": 854,
+    "currentPeriodStars": 677,
+    "builtBy": [
+      {
+        "username": "zhisheng17",
+        "href": "https://github.com/zhisheng17",
+        "avatar": "https://avatars3.githubusercontent.com/u/10086212"
+      },
+      {
+        "username": "1996fanrui",
+        "href": "https://github.com/1996fanrui",
+        "avatar": "https://avatars1.githubusercontent.com/u/38427477"
+      },
+      {
+        "username": "Braavos96",
+        "href": "https://github.com/Braavos96",
+        "avatar": "https://avatars0.githubusercontent.com/u/35978114"
+      }
+    ]
+  },
+  {
+    "author": "fengdu78",
+    "name": "lihang-code",
+    "avatar": "https://github.com/fengdu78.png",
+    "url": "https://github.com/fengdu78/lihang-code",
+    "description": "《统计学习方法》的代码实现",
+    "language": "Jupyter Notebook",
+    "languageColor": "#DA5B0B",
+    "stars": 8765,
+    "forks": 3119,
+    "currentPeriodStars": 1220,
+    "builtBy": [
+      {
+        "username": "fengdu78",
+        "href": "https://github.com/fengdu78",
+        "avatar": "https://avatars3.githubusercontent.com/u/26119052"
+      },
+      {
+        "username": "qianguyizhe",
+        "href": "https://github.com/qianguyizhe",
+        "avatar": "https://avatars0.githubusercontent.com/u/45165272"
+      },
+      {
+        "username": "DrDavidS",
+        "href": "https://github.com/DrDavidS",
+        "avatar": "https://avatars0.githubusercontent.com/u/20372610"
+      },
+      {
+        "username": "alphadl",
+        "href": "https://github.com/alphadl",
+        "avatar": "https://avatars2.githubusercontent.com/u/20458732"
+      },
+      {
+        "username": "Mintisma",
+        "href": "https://github.com/Mintisma",
+        "avatar": "https://avatars0.githubusercontent.com/u/16861023"
+      }
+    ]
+  },
+  {
+    "author": "swisskyrepo",
+    "name": "PayloadsAllTheThings",
+    "avatar": "https://github.com/swisskyrepo.png",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 10909,
+    "forks": 3413,
+    "currentPeriodStars": 747,
+    "builtBy": [
+      {
+        "username": "swisskyrepo",
+        "href": "https://github.com/swisskyrepo",
+        "avatar": "https://avatars1.githubusercontent.com/u/12152583"
+      },
+      {
+        "username": "nizam0906",
+        "href": "https://github.com/nizam0906",
+        "avatar": "https://avatars3.githubusercontent.com/u/25560738"
+      },
+      {
+        "username": "noraj",
+        "href": "https://github.com/noraj",
+        "avatar": "https://avatars3.githubusercontent.com/u/16578570"
+      },
+      {
+        "username": "Hi15358",
+        "href": "https://github.com/Hi15358",
+        "avatar": "https://avatars1.githubusercontent.com/u/30126475"
+      },
+      {
+        "username": "chgq1020",
+        "href": "https://github.com/chgq1020",
+        "avatar": "https://avatars2.githubusercontent.com/u/39968695"
+      }
+    ]
+  },
+  {
+    "author": "llvm",
+    "name": "llvm-project",
+    "avatar": "https://github.com/llvm.png",
+    "url": "https://github.com/llvm/llvm-project",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.",
+    "language": "C++",
+    "languageColor": "#f34b7d",
+    "stars": 2781,
+    "forks": 889,
+    "currentPeriodStars": 506,
+    "builtBy": [
+      {
+        "username": "lattner",
+        "href": "https://github.com/lattner",
+        "avatar": "https://avatars0.githubusercontent.com/u/15152540"
+      },
+      {
+        "username": "topperc",
+        "href": "https://github.com/topperc",
+        "avatar": "https://avatars2.githubusercontent.com/u/22566570"
+      },
+      {
+        "username": "tkremenek",
+        "href": "https://github.com/tkremenek",
+        "avatar": "https://avatars2.githubusercontent.com/u/3087023"
+      },
+      {
+        "username": "RKSimon",
+        "href": "https://github.com/RKSimon",
+        "avatar": "https://avatars1.githubusercontent.com/u/2175834"
+      },
+      {
+        "username": "ddunbar",
+        "href": "https://github.com/ddunbar",
+        "avatar": "https://avatars3.githubusercontent.com/u/106625"
+      }
+    ]
+  },
+  {
+    "author": "algorithm-visualizer",
+    "name": "algorithm-visualizer",
+    "avatar": "https://github.com/algorithm-visualizer.png",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 26776,
+    "forks": 4286,
+    "currentPeriodStars": 1567,
+    "builtBy": [
+      {
+        "username": "parkjs814",
+        "href": "https://github.com/parkjs814",
+        "avatar": "https://avatars3.githubusercontent.com/u/1618732"
+      },
+      {
+        "username": "nem035",
+        "href": "https://github.com/nem035",
+        "avatar": "https://avatars2.githubusercontent.com/u/9661806"
+      },
+      {
+        "username": "TornjV",
+        "href": "https://github.com/TornjV",
+        "avatar": "https://avatars2.githubusercontent.com/u/13820300"
+      },
+      {
+        "username": "duaraghav8",
+        "href": "https://github.com/duaraghav8",
+        "avatar": "https://avatars0.githubusercontent.com/u/12758282"
+      },
+      {
+        "username": "nadr0",
+        "href": "https://github.com/nadr0",
+        "avatar": "https://avatars2.githubusercontent.com/u/1581329"
+      }
+    ]
+  },
+  {
+    "author": "wangzheng0822",
+    "name": "algo",
+    "avatar": "https://github.com/wangzheng0822.png",
+    "url": "https://github.com/wangzheng0822/algo",
+    "description": "数据结构和算法必知必会的50个代码实现",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 11258,
+    "forks": 3447,
+    "currentPeriodStars": 902,
+    "builtBy": [
+      {
+        "username": "wangzheng0822",
+        "href": "https://github.com/wangzheng0822",
+        "avatar": "https://avatars1.githubusercontent.com/u/8136224"
+      },
+      {
+        "username": "Liam0205",
+        "href": "https://github.com/Liam0205",
+        "avatar": "https://avatars3.githubusercontent.com/u/3348485"
+      },
+      {
+        "username": "email2liyang",
+        "href": "https://github.com/email2liyang",
+        "avatar": "https://avatars1.githubusercontent.com/u/443527"
+      },
+      {
+        "username": "jerryderry",
+        "href": "https://github.com/jerryderry",
+        "avatar": "https://avatars3.githubusercontent.com/u/12470704"
+      },
+      {
+        "username": "jinshaohui",
+        "href": "https://github.com/jinshaohui",
+        "avatar": "https://avatars2.githubusercontent.com/u/8523525"
+      }
+    ]
+  },
+  {
+    "author": "frank-lam",
+    "name": "fullstack-tutorial",
+    "avatar": "https://github.com/frank-lam.png",
+    "url": "https://github.com/frank-lam/fullstack-tutorial",
+    "description": "🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "stars": 7327,
+    "forks": 1612,
+    "currentPeriodStars": 1121,
+    "builtBy": [
+      {
+        "username": "frank-lam",
+        "href": "https://github.com/frank-lam",
+        "avatar": "https://avatars2.githubusercontent.com/u/19153458"
+      },
+      {
+        "username": "qiurenbo",
+        "href": "https://github.com/qiurenbo",
+        "avatar": "https://avatars2.githubusercontent.com/u/12886911"
+      },
+      {
+        "username": "si9ma",
+        "href": "https://github.com/si9ma",
+        "avatar": "https://avatars2.githubusercontent.com/u/24809310"
+      },
+      {
+        "username": "yaosai",
+        "href": "https://github.com/yaosai",
+        "avatar": "https://avatars2.githubusercontent.com/u/24610737"
+      },
+      {
+        "username": "pyinx",
+        "href": "https://github.com/pyinx",
+        "avatar": "https://avatars3.githubusercontent.com/u/3828540"
+      }
+    ]
+  },
+  {
+    "author": "zhangdaiscott",
+    "name": "jeecg-boot",
+    "avatar": "https://github.com/zhangdaiscott.png",
+    "url": "https://github.com/zhangdaiscott/jeecg-boot",
+    "description": "一款基于代码生成器的JAVA快速开发平台，开源界“小普元”超越传统商业企业级开发平台！采用前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式(OnlineCoding模式-> 代码生成器模式-> 手工MERGE智能开发)，帮助Java项目解决70%的重复工作，让开发更多关注业务逻辑。既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。JeecgBoot还独创在线开发模式（No代码）：在线表单配置（表单设计器）、移动配置能力、在线工作流配置（流程设计器）、在线报表配置、在线图表配置、插件能力（可插拔）等等",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "stars": 7637,
+    "forks": 2770,
+    "currentPeriodStars": 906,
+    "builtBy": [
+      {
+        "username": "zhangdaiscott",
+        "href": "https://github.com/zhangdaiscott",
+        "avatar": "https://avatars0.githubusercontent.com/u/3162115"
+      },
+      {
+        "username": "klniu",
+        "href": "https://github.com/klniu",
+        "avatar": "https://avatars3.githubusercontent.com/u/1018698"
+      },
+      {
+        "username": "liudonghua123",
+        "href": "https://github.com/liudonghua123",
+        "avatar": "https://avatars0.githubusercontent.com/u/2276718"
+      }
+    ]
+  },
+  {
+    "author": "nodejs",
+    "name": "node",
+    "avatar": "https://github.com/nodejs.png",
+    "url": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 66004,
+    "forks": 15539,
+    "currentPeriodStars": 910,
+    "builtBy": [
+      {
+        "username": "ry",
+        "href": "https://github.com/ry",
+        "avatar": "https://avatars2.githubusercontent.com/u/80"
+      },
+      {
+        "username": "bnoordhuis",
+        "href": "https://github.com/bnoordhuis",
+        "avatar": "https://avatars2.githubusercontent.com/u/275871"
+      },
+      {
+        "username": "Trott",
+        "href": "https://github.com/Trott",
+        "avatar": "https://avatars3.githubusercontent.com/u/718899"
+      },
+      {
+        "username": "isaacs",
+        "href": "https://github.com/isaacs",
+        "avatar": "https://avatars3.githubusercontent.com/u/9287"
+      },
+      {
+        "username": "addaleax",
+        "href": "https://github.com/addaleax",
+        "avatar": "https://avatars3.githubusercontent.com/u/899444"
+      }
+    ]
+  },
+  {
+    "author": "ohmyzsh",
+    "name": "ohmyzsh",
+    "avatar": "https://github.com/ohmyzsh.png",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "description": "🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the commun…",
+    "language": "Shell",
+    "languageColor": "#89e051",
+    "stars": 99348,
+    "forks": 18131,
+    "currentPeriodStars": 2072,
+    "builtBy": [
+      {
+        "username": "robbyrussell",
+        "href": "https://github.com/robbyrussell",
+        "avatar": "https://avatars0.githubusercontent.com/u/257"
+      },
+      {
+        "username": "mcornella",
+        "href": "https://github.com/mcornella",
+        "avatar": "https://avatars1.githubusercontent.com/u/1441704"
+      },
+      {
+        "username": "apjanke",
+        "href": "https://github.com/apjanke",
+        "avatar": "https://avatars2.githubusercontent.com/u/2618447"
+      },
+      {
+        "username": "fred-o",
+        "href": "https://github.com/fred-o",
+        "avatar": "https://avatars1.githubusercontent.com/u/102433"
+      },
+      {
+        "username": "ncanceill",
+        "href": "https://github.com/ncanceill",
+        "avatar": "https://avatars0.githubusercontent.com/u/1941221"
+      }
+    ]
+  },
+  {
+    "author": "wuyouzhuguli",
+    "name": "SpringAll",
+    "avatar": "https://github.com/wuyouzhuguli.png",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "stars": 10674,
+    "forks": 2957,
+    "currentPeriodStars": 912,
+    "builtBy": [
+      {
+        "username": "wuyouzhuguli",
+        "href": "https://github.com/wuyouzhuguli",
+        "avatar": "https://avatars3.githubusercontent.com/u/16661027"
+      },
+      {
+        "username": "xianqiangzhao",
+        "href": "https://github.com/xianqiangzhao",
+        "avatar": "https://avatars2.githubusercontent.com/u/26996795"
+      }
+    ]
+  },
+  {
+    "author": "cdr",
+    "name": "code-server",
+    "avatar": "https://github.com/cdr.png",
+    "url": "https://github.com/cdr/code-server",
+    "description": "Run VS Code on a remote server.",
+    "language": "TypeScript",
+    "languageColor": "#2b7489",
+    "stars": 25561,
+    "forks": 1692,
+    "currentPeriodStars": 1417,
+    "builtBy": [
+      {
+        "username": "code-asher",
+        "href": "https://github.com/code-asher",
+        "avatar": "https://avatars0.githubusercontent.com/u/45609798"
+      },
+      {
+        "username": "kylecarbs",
+        "href": "https://github.com/kylecarbs",
+        "avatar": "https://avatars3.githubusercontent.com/u/7122116"
+      },
+      {
+        "username": "nhooyr",
+        "href": "https://github.com/nhooyr",
+        "avatar": "https://avatars1.githubusercontent.com/u/10180857"
+      },
+      {
+        "username": "deansheather",
+        "href": "https://github.com/deansheather",
+        "avatar": "https://avatars3.githubusercontent.com/u/11241812"
+      },
+      {
+        "username": "sr229",
+        "href": "https://github.com/sr229",
+        "avatar": "https://avatars0.githubusercontent.com/u/14976516"
+      }
+    ]
+  },
+  {
+    "author": "streamlit",
+    "name": "streamlit",
+    "avatar": "https://github.com/streamlit.png",
+    "url": "https://github.com/streamlit/streamlit",
+    "description": "Streamlit — The fastest way to build custom ML tools",
+    "language": "Python",
+    "languageColor": "#3572A5",
+    "stars": 5353,
+    "forks": 446,
+    "currentPeriodStars": 2054,
+    "builtBy": [
+      {
+        "username": "tvst",
+        "href": "https://github.com/tvst",
+        "avatar": "https://avatars1.githubusercontent.com/u/690814"
+      },
+      {
+        "username": "treuille",
+        "href": "https://github.com/treuille",
+        "avatar": "https://avatars2.githubusercontent.com/u/1673013"
+      },
+      {
+        "username": "aaj-st",
+        "href": "https://github.com/aaj-st",
+        "avatar": "https://avatars0.githubusercontent.com/u/44782696"
+      },
+      {
+        "username": "tconkling",
+        "href": "https://github.com/tconkling",
+        "avatar": "https://avatars1.githubusercontent.com/u/709022"
+      },
+      {
+        "username": "kantuni",
+        "href": "https://github.com/kantuni",
+        "avatar": "https://avatars1.githubusercontent.com/u/6151409"
+      }
+    ]
+  },
+  {
+    "author": "ethereum",
+    "name": "go-ethereum",
+    "avatar": "https://github.com/ethereum.png",
+    "url": "https://github.com/ethereum/go-ethereum",
+    "description": "Official Go implementation of the Ethereum protocol",
+    "language": "Go",
+    "languageColor": "#00ADD8",
+    "stars": 24901,
+    "forks": 9006,
+    "currentPeriodStars": 469,
+    "builtBy": [
+      {
+        "username": "obscuren",
+        "href": "https://github.com/obscuren",
+        "avatar": "https://avatars0.githubusercontent.com/u/6264126"
+      },
+      {
+        "username": "karalabe",
+        "href": "https://github.com/karalabe",
+        "avatar": "https://avatars3.githubusercontent.com/u/129561"
+      },
+      {
+        "username": "fjl",
+        "href": "https://github.com/fjl",
+        "avatar": "https://avatars0.githubusercontent.com/u/6915"
+      },
+      {
+        "username": "tgerring",
+        "href": "https://github.com/tgerring",
+        "avatar": "https://avatars2.githubusercontent.com/u/731472"
+      },
+      {
+        "username": "zelig",
+        "href": "https://github.com/zelig",
+        "avatar": "https://avatars1.githubusercontent.com/u/769725"
+      }
+    ]
+  },
+  {
+    "author": "topjohnwu",
+    "name": "Magisk",
+    "avatar": "https://github.com/topjohnwu.png",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "description": "A Magic Mask to Alter Android System Systemless-ly",
+    "language": "C++",
+    "languageColor": "#f34b7d",
+    "stars": 8468,
+    "forks": 1331,
+    "currentPeriodStars": 522,
+    "builtBy": [
+      {
+        "username": "topjohnwu",
+        "href": "https://github.com/topjohnwu",
+        "avatar": "https://avatars1.githubusercontent.com/u/7337301"
+      },
+      {
+        "username": "diareuse",
+        "href": "https://github.com/diareuse",
+        "avatar": "https://avatars2.githubusercontent.com/u/5982859"
+      },
+      {
+        "username": "d8ahazard",
+        "href": "https://github.com/d8ahazard",
+        "avatar": "https://avatars0.githubusercontent.com/u/1633844"
+      },
+      {
+        "username": "dark-basic",
+        "href": "https://github.com/dark-basic",
+        "avatar": "https://avatars1.githubusercontent.com/u/28790924"
+      },
+      {
+        "username": "vvb2060",
+        "href": "https://github.com/vvb2060",
+        "avatar": "https://avatars1.githubusercontent.com/u/26996262"
+      }
+    ]
+  },
+  {
+    "author": "alibaba",
+    "name": "p3c",
+    "avatar": "https://github.com/alibaba.png",
+    "url": "https://github.com/alibaba/p3c",
+    "description": "Alibaba Java Coding Guidelines pmd implements and IDE plugin",
+    "language": "Java",
+    "languageColor": "#b07219",
+    "stars": 19245,
+    "forks": 4670,
+    "currentPeriodStars": 637,
+    "builtBy": [
+      {
+        "username": "SeanCai",
+        "href": "https://github.com/SeanCai",
+        "avatar": "https://avatars3.githubusercontent.com/u/5645909"
+      },
+      {
+        "username": "fulwonder88",
+        "href": "https://github.com/fulwonder88",
+        "avatar": "https://avatars2.githubusercontent.com/u/32050085"
+      },
+      {
+        "username": "yangguanbao",
+        "href": "https://github.com/yangguanbao",
+        "avatar": "https://avatars2.githubusercontent.com/u/25759061"
+      },
+      {
+        "username": "xuantan",
+        "href": "https://github.com/xuantan",
+        "avatar": "https://avatars3.githubusercontent.com/u/1271849"
+      },
+      {
+        "username": "kerie",
+        "href": "https://github.com/kerie",
+        "avatar": "https://avatars3.githubusercontent.com/u/481508"
+      }
+    ]
+  },
+  {
+    "author": "nndl",
+    "name": "nndl.github.io",
+    "avatar": "https://github.com/nndl.png",
+    "url": "https://github.com/nndl/nndl.github.io",
+    "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+    "language": "HTML",
+    "languageColor": "#e34c26",
+    "stars": 10137,
+    "forks": 2248,
+    "currentPeriodStars": 428,
+    "builtBy": [
+      {
+        "username": "xpqiu",
+        "href": "https://github.com/xpqiu",
+        "avatar": "https://avatars0.githubusercontent.com/u/6408146"
+      },
+      {
+        "username": "JerrikEph",
+        "href": "https://github.com/JerrikEph",
+        "avatar": "https://avatars0.githubusercontent.com/u/17830427"
+      },
+      {
+        "username": "QipengGuo",
+        "href": "https://github.com/QipengGuo",
+        "avatar": "https://avatars0.githubusercontent.com/u/8382210"
+      },
+      {
+        "username": "tys1998",
+        "href": "https://github.com/tys1998",
+        "avatar": "https://avatars0.githubusercontent.com/u/33472759"
+      },
+      {
+        "username": "chenkaiyu1997",
+        "href": "https://github.com/chenkaiyu1997",
+        "avatar": "https://avatars2.githubusercontent.com/u/16744047"
+      }
+    ]
+  }
+]
