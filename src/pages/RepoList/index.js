@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
+import { Transition } from 'react-navigation-fluid-transitions';
 
 import {
   Container,
@@ -33,11 +34,41 @@ export default function RepoList({ navigation }) {
     loadRepos();
   }, []);
 
+  function rotateIn({ progress, start, end }) {
+    const rotateAnimation = progress.interpolate({
+      inputRange: [0, start, end, 1],
+      outputRange: ['-180deg', '-180deg', '0deg', '0deg']
+    });
+
+    const opacityAnimation = progress.interpolate({
+      inputRange: [0, start, end, 1],
+      outputRange: [0, 0, 1, 1]
+    });
+
+    return { transform: [{ rotate: rotateAnimation }], opacity: opacityAnimation }
+  }
+
+  function rotateOut({ progress, start, end }) {
+    const rotateAnimation = progress.interpolate({
+      inputRange: [0, start, end, 1],
+      outputRange: ['0deg', '0deg', '-180deg', '-180deg']
+    });
+
+    const opacityAnimation = progress.interpolate({
+      inputRange: [0, start, end, 1],
+      outputRange: [1, 1, 0, 0]
+    });
+
+    return { transform: [{ rotate: rotateAnimation }], opacity: opacityAnimation }
+  }
+
   return (
     <Container>
-      <Header>
-        <Title>Top 10 repositórios do mês</Title>
-      </Header>
+      <Transition appear={rotateIn} disappear={rotateOut}>
+        <Header>
+          <Title>Top 10 repositórios do mês</Title>
+        </Header>
+      </Transition>
 
       <CardList
         data={repos}
@@ -46,10 +77,14 @@ export default function RepoList({ navigation }) {
         renderItem={({ item }) => (
           <Card
             onPress={() => navigation.navigate('RepoDetails', { repo: item })}>
-            <Avatar source={{ uri: item.avatar }} />
+            <Transition shared={`avatar-${item.url}`}>
+              <Avatar source={{ uri: item.avatar }} />
+            </Transition>
 
             <TextContainer>
-              <RepoName>{item.name}</RepoName>
+              <Transition shared={`name-${item.url}`}>
+                <RepoName>{item.name}</RepoName>
+              </Transition>
 
               <RepoDescription>{item.description}</RepoDescription>
             </TextContainer>

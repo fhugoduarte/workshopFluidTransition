@@ -1,5 +1,6 @@
 import React from 'react';
 import Icon from '@expo/vector-icons/Octicons';
+import { Transition } from 'react-navigation-fluid-transitions';
 
 import {
   Container,
@@ -19,30 +20,43 @@ export default function RepoDetails({ navigation }) {
 
   return (
     <Container>
-      <Avatar source={{ uri: repo.avatar }} />
+      <Transition shared={`avatar-${repo.url}`}>
+        <Avatar source={{ uri: repo.avatar }} />
+      </Transition>
 
-      <RepoName>{repo.name}</RepoName>
+      <Transition shared={`name-${repo.url}`}>
+        <RepoName>{repo.name}</RepoName>
+      </Transition>
 
-      <GitDetailsContainer>
-        <Icon name="star" size={18} color="#555" />
-        <GitDetailsText>{repo.stars}</GitDetailsText>
 
-        <Icon name="repo-forked" size={18} color="#555" />
-        <GitDetailsText>{repo.forks}</GitDetailsText>
+      <Transition appear="horizontal">
+        <GitDetailsContainer>
+          <Icon name="star" size={18} color="#555" />
+          <GitDetailsText>{repo.stars}</GitDetailsText>
 
-      </GitDetailsContainer>
+          <Icon name="repo-forked" size={18} color="#555" />
+          <GitDetailsText>{repo.forks}</GitDetailsText>
 
-      <RepoDescription>{repo.description}</RepoDescription>
+        </GitDetailsContainer>
+      </Transition>
 
-      <Footer>
-        {repo.builtBy.map(builder => (
-          <Builder key={builder.href} source={{ uri: builder.avatar }} />
-        ))}
-      </Footer>
+      <Transition appear="horizontal" delay>
+        <RepoDescription>{repo.description}</RepoDescription>
+      </Transition>
 
-      <Button onPress={() => navigation.goBack()}>
-        <ButtonTitle>Voltar</ButtonTitle>
-      </Button>
+      <Transition appear="scale">
+        <Footer>
+          {repo.builtBy.map(builder => (
+            <Builder key={builder.href} source={{ uri: builder.avatar }} />
+          ))}
+        </Footer>
+      </Transition>
+
+      <Transition appear="bottom">
+        <Button onPress={() => navigation.goBack()}>
+          <ButtonTitle>Voltar</ButtonTitle>
+        </Button>
+      </Transition>
     </Container>
   );
 }
