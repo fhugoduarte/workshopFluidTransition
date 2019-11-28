@@ -5,13 +5,8 @@ import RepoList from './pages/RepoList';
 import RepoDetails from './pages/RepoDetails';
 
 export default createAppContainer(
-  createBottomTab({
-    Repo: {
-      screen: createFluidNavigator({
-        RepoList,
-        RepoDetails
-      })
-    }
+  createFluidNavigator({
+    RepoList,
+    RepoDetails
   })
-
 );

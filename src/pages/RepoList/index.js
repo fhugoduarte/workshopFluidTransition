@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Keyboard } from 'react-native';
 import axios from 'axios';
 import { Transition } from 'react-navigation-fluid-transitions';
 
@@ -12,16 +13,22 @@ import {
   TextContainer,
   RepoName,
   RepoDescription,
+  ButtonTitle,
+  Input,
+  SearchButton,
+  SearchContainer
 } from './styles';
 
 export default function RepoList({ navigation }) {
   const [repos, setRepos] = useState([]);
+  const [language, setLanguage] = useState('');
 
   async function loadRepos() {
     const { data } = await axios.get(
       'https://github-trending-api.now.sh/repositories',
       {
         params: {
+          language,
           since: 'monthly'
         }
       }
@@ -62,6 +69,12 @@ export default function RepoList({ navigation }) {
     return { transform: [{ rotate: rotateAnimation }], opacity: opacityAnimation }
   }
 
+  function handleSubmit() {
+    loadRepos(language);
+    setLanguage('');
+    Keyboard.dismiss();
+  }
+
   return (
     <Container>
       <Transition appear={rotateIn} disappear={rotateOut}>
@@ -74,6 +87,19 @@ export default function RepoList({ navigation }) {
         data={repos}
         extraData={repos}
         keyExtractor={item => item.url}
+        ListHeaderComponent={(<SearchContainer>
+          <Input
+            value={language}
+            onChangeText={setLanguage}
+            autoCapitalize="none"
+            autoCorrect={false}
+            onEndEditing={handleSubmit}
+          />
+
+          <SearchButton onPress={handleSubmit}>
+            <ButtonTitle>Buscar</ButtonTitle>
+          </SearchButton>
+        </SearchContainer>)}
         renderItem={({ item }) => (
           <Card
             onPress={() => navigation.navigate('RepoDetails', { repo: item })}>
